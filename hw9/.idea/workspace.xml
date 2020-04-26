@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="438c9fa6-6a9b-4a22-a8ec-a43fef552c2d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ay64bgHexokJEMNzQBrW2bbkwc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.NFATests">
+    <configuration name="NFATests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NFATests" />
+      <module name="hw9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NFATests.testSimple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NFATests" />
+      <option name="METHOD_NAME" value="testSimple" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NFATests" />
+        <item itemvalue="JUnit.NFATests.testSimple" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="438c9fa6-6a9b-4a22-a8ec-a43fef552c2d" name="Default Changelist" comment="" />
+      <created>1587695295419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587695295419</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom" timestamp="1587846960610">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587846960610" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center" timestamp="1587846960608">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587846960608" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left" timestamp="1587846960607">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587846960607" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right" timestamp="1587846960609">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587846960609" />
+    <state width="1398" height="2" key="GridCell.Tab.1.bottom" timestamp="1587846960612">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587846960612" />
+    <state width="1398" height="2" key="GridCell.Tab.1.center" timestamp="1587846960611">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1587846960611" />
+    <state width="1398" height="2" key="GridCell.Tab.1.left" timestamp="1587846960610">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1587846960610" />
+    <state width="1398" height="2" key="GridCell.Tab.1.right" timestamp="1587846960611">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1587846960611" />
+    <state width="1398" height="2" key="GridCell.Tab.2.bottom" timestamp="1587846960614">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587846960614" />
+    <state width="1398" height="2" key="GridCell.Tab.2.center" timestamp="1587846960613">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1587846960613" />
+    <state width="1398" height="2" key="GridCell.Tab.2.left" timestamp="1587846960612">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1587846960612" />
+    <state width="1398" height="2" key="GridCell.Tab.2.right" timestamp="1587846960614">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1587846960614" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1587695344533">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587695344533" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1587789141724">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1587789141724" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/NFA.java</url>
+          <line>378</line>
+          <properties class="NFA" method="matches">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

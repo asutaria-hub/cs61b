@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bc54c7e-4cc4-4f4e-970b-03681371bbc1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../hw7/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw7/BenchmarkUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw7/Intervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw7/Inversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw7/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw7/MySortingAlgorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw7/MySortingAlgorithmsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw7/Quicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw7/RunBenchmarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw7/SortInts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw7/SortingAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw7/Stopwatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw7/Sum.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aKXR2RsYTUVoMTc2TcRUwnc5W2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="capers.Main" />
+      <module name="lab12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="capers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bc54c7e-4cc4-4f4e-970b-03681371bbc1" name="Default Changelist" comment="" />
+      <created>1586485247301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586485247301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586509648565">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="442" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1586509648565" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1586547275964">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586547275964" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1586547275962">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586547275962" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1586547275961">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586547275961" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1586547275963">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586547275963" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1586485273425">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586485273425" />
+  </component>
+</project>

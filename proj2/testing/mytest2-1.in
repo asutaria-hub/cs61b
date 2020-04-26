@@ -1,0 +1,16 @@
+# Test program works pt2!
+#java -ea loa.Main 
+manual white
+f8-h6
+a6-c4
+c1-c4
+a5-c3
+d8-f6
+a7-c7
+e1-c3
+c7-a7
+c8-b7
+auto white
+auto black
+#*move/Tie
+
