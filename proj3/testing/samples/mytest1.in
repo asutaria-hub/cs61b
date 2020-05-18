@@ -1,0 +1,13 @@
+# Basic initialization to test that commit works
+> init
+<<<
++ notwug.txt notwug.txt
+> add notwug.txt
+<<<
+> commit "notwug file was added #hilfingerganggang"
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<
+> commit "wug file was added #wugganggang"
+<<<

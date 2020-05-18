@@ -1,0 +1,32 @@
+# Basic initialization to test that commit and log works
+> init
+<<<
++ notaayush.txt notaayush.txt
+> add notaayush.txt
+<<<
+> commit "notaayush file was added #IneedAjob"
+<<<
++ aayush.txt aayush.txt
+> add aayush.txt
+<<<
+> commit "aayush file was added #lockdownsucks"
+<<<
+D HEADER "commit [a-f0-9]+"
+D DATE "Date: \w\w\w \w\w\w \d+ \d\d:\d\d:\d\d \d\d\d\d [-+]\d\d\d\d"
+> log
+===
+${HEADER}
+${DATE}
+aayush file was added #lockdownsucks
+
+===
+${HEADER}
+${DATE}
+notaayush file was added #IneedAjob
+
+===
+${HEADER}
+${DATE}
+initial commit
+
+<<<*

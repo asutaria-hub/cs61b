@@ -1,0 +1,6 @@
+# Basic initialization to test that add works
+> init
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<
