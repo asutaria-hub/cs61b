@@ -1,5 +1,6 @@
 # cs61b
-Coursework from sp20 CS61b (Java) 
+Coursework from sp20 CS61b (Java)
+
 Course Website: https://inst.eecs.berkeley.edu/~cs61b/sp20/index.html
 
 Project 0 - Signpost (Details: https://inst.eecs.berkeley.edu/~cs61b/sp20/materials/proj/proj0/index.html)
